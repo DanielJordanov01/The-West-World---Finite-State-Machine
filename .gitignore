@@ -1,0 +1,9 @@
+/Temp
+/Library
+/obj
+/Build
+/Builds
+/Logs
+
+*.*proj
+*.*sln
